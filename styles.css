@@ -1,0 +1,40 @@
+body {
+	background-color: #d3fc03;
+}
+
+hr{
+	background-color: black;
+	height: 3px;
+}
+
+.intro {
+	font-size: 20px;
+}
+
+h1 {
+	margin-bottom: 20px;
+	padding-bottom: 20px;
+	font-family: Times new roman;
+}
+
+h2 {
+	font-size: 25px;
+	font-weight: bold;
+	font-style: italic;
+	font-family: Helvetica;
+}
+
+img {
+	height: 200px;
+	width: 300px;
+}
+
+form label {
+	display:block;
+}
+
+a {
+	display: block;
+	margin-bottom: 8px;
+}
+
