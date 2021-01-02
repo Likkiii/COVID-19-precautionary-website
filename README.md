@@ -1,2 +1,3 @@
 # Covid-19-Precautionary-Website
-A small website regarding the Precautionary measures to be taken for Covid-19
+Since I have recently started working with HTML and entered into the world of Web Development, the project isn't in its final touch
+I tried to make a small website regarding "The Precautionary measures to be taken for Covid-19" based on my current Web Development knowledge so far
